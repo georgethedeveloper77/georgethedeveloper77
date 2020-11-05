@@ -1,9 +1,8 @@
-//![Tadas Petra](https://user-images.githubusercontent.com/60107328/95801273-766bdf80-0cbf-11eb-92ea-1f23a8587265.png)
+![George Karani](https://images-assets.nasa.gov/image/PIA08653/PIA08653~thumb.jpg)
 
 
-- I am Tadas Petra and I make youtube videos teaching flutter! My goal is to bring anybody including amateurs to be writing professional, well developed code. Hence the channel name [Amateur Coder](https://www.youtube.com/amateurcoder)
-- I have worked with flutter for over 2 years now! Using flutter is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me.
-- I am also featured on the [Official Flutter Docs](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#getx) for the GetX package. I have made a lot of videos on this package, and I think it makes flutter development even simpler
+- I am George Karani 
+
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
     <img src="https://img.shields.io/github/followers/tadaspetra?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
