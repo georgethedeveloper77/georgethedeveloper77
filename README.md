@@ -28,7 +28,7 @@
   <a href="http://youtube.com/georgethedeveloper77?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/Mt41FpSS-Vo?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
-  <a href="http://twitch.tv/georgethedevelope">
+  <a href="http://twitch.tv/georgethedeveloper77">
     <img src="https://img.shields.io/twitch/status/tadaspetra?label=Twitch&logo=twitch&style=for-the-badge" />
   </a>
 </p>
@@ -40,17 +40,17 @@
 
 
 <a href="https://github.com/georgethedeveloper77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgethedeveloper77&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/georgethedeveloper77">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgethedeveloper77&show_icons=true&theme=light&line_height=27" alt="georgethedeveloper77 github stats"/>
 </a>
 <a href="https://github.com/georgethedeveloper77/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgethedeveloper77&repo=FlutterExampleApps&theme=light" />
 
 </a>
 <a href="https://github.com/georgethedeveloper77/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgethedeveloper77&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
