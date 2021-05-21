@@ -31,11 +31,6 @@
 
 - 🔭 I’m currently working as Freelancer.
 
-[![Twitter: georgethedev_](https://img.shields.io/twitter/follow/georgethedev_?style=social)](https://twitter.com/georgethedev_)
-[![Linkedin: georgethedev_](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-karani-900b761a1)](https://www.linkedin.com/in/george-karani-900b761a1)
-[![GitHub georgethedeveloper77](https://img.shields.io/github/followers/georgethedeveloper77?label=follow&style=social)](https://github.com/georgethedeveloper77)
-[![website](https://twitter.com/georgethedev_/photo)](https://georgethedeveloper.tech/)
-
 
 **Languages and Tools:**  
 
