@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/georgethedeve/">
   <img align="left" alt="georgethedeveloper77 Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/georgethedeveloper/">
+<a href="https://www.youtube.com/channel/UCTc4dfQOfc0RrRhPEYuicgg">
   <img align="left" alt="georgethedeveloper77" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -31,10 +31,10 @@
 
 - 🔭 I’m currently working as Freelancer.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/georgethedev_?style=social)](https://twitter.com/georgethedev_)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-karani-900b761a1)](https://www.linkedin.com/in/georgethedeveloper77/)
+[![Twitter: georgethedev_](https://img.shields.io/twitter/follow/georgethedev_?style=social)](https://twitter.com/georgethedev_)
+[![Linkedin: georgethedev_](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-karani-900b761a1)](https://www.linkedin.com/in/george-karani-900b761a1)
 [![GitHub georgethedeveloper77](https://img.shields.io/github/followers/georgethedeveloper77?label=follow&style=social)](https://github.com/georgethedeveloper77)
-[![website](https://img.shields.io/badge/georgethedeveloper.tech-2648ff?style=flat-square&logo=google-chrome)](https://georgethedeveloper.tech/)
+[![website](https://twitter.com/georgethedev_/photo)](https://georgethedeveloper.tech/)
 
 
 **Languages and Tools:**  
@@ -47,6 +47,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
+
 
 
 <a href="https://github.com/georgethedeveloper77">
