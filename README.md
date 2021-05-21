@@ -1,23 +1,23 @@
-## Hola, I'm [George Karani!](https://georgethedeveloper.tech)
+## Hi!, I'm [georgethedeveloper!](https://georgethedeveloper.tech)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgethedeveloper77&label=Views&color=blue&style=plastic" alt="georgethedeveloper" /> </p>
 
-<a href="https://twitter.com/georgethedeveloper77">
+<a href="https://twitter.com/georgethedev_">
   <img align="left" alt="georgethedeveloper" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/georgekarani">
+<a href="https://www.linkedin.com/in/george-karani-900b761a1">
   <img align="left" alt="georgekarani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/georgethedeveloper77">
   <img align="left" alt="georgethedeveloper77" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/georgethedeveloper77">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="georgethedeveloper" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/georgethedeveloper77/">
   <img align="left" alt="georgethedeveloper77" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/georgethedeveloper/">
+<a href="https://www.facebook.com/georgethedeve/">
   <img align="left" alt="georgethedeveloper77 Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/georgethedeveloper/">
@@ -31,10 +31,10 @@
 
 - 🔭 I’m currently working as Freelancer.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/georgethedeveloper77)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgethedeveloper77/)](https://www.linkedin.com/in/georgethedeveloper77/)
-[![GitHub georgethedeveloper77](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/georgethedeveloper77)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://georgethedeveloper.tech/)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/georgethedev_?style=social)](https://twitter.com/georgethedev_)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-karani-900b761a1)](https://www.linkedin.com/in/georgethedeveloper77/)
+[![GitHub georgethedeveloper77](https://img.shields.io/github/followers/georgethedeveloper77?label=follow&style=social)](https://github.com/georgethedeveloper77)
+[![website](https://img.shields.io/badge/georgethedeveloper.tech-2648ff?style=flat-square&logo=google-chrome)](https://georgethedeveloper.tech/)
 
 
 **Languages and Tools:**  
@@ -44,13 +44,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code> 
+
 
 <a href="https://github.com/georgethedeveloper77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgethedeveloper77&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/georgethedeveloper77">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgethedeveloper77&show_icons=true&theme=light&line_height=27" alt="georgethedeveloper77 github stats"/>
 </a>
 
 <a href="https://github.com/georgethedeveloper77/VelocityX">
