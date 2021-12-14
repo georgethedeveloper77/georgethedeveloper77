@@ -49,16 +49,12 @@
 
 
 
-<a href="https://github.com/georgethedeveloper77">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgethedeveloper77&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/georgethedeveloper77">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgethedeveloper77&show_icons=true&theme=light&line_height=27" alt="georgethedeveloper77 github stats"/>
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgethedeveloper77&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github.com/georgethedeveloper77/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=georgethedeveloper77&repo=VelocityX&theme=light" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgethedeveloper77&hide=html&theme=tokyonight)
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgethedeveloper77&show_icons=true&theme=dark&line_height=27" alt="georgethedeveloper77 github stats"/>
 
 
 
