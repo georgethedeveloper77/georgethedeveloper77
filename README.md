@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgethedeveloper77&label=Views&color=blue&style=plastic" alt="georgethedeveloper" /> </p>
 
-<p align="left"> <img src="![](https://hit.yhype.me/github/profile?user_id=50877288)" alt="georgethedeveloper" /> </p>
+<p align="left"> ![](https://hit.yhype.me/github/profile?user_id=50877288) </p>
 
 <a href="https://twitter.com/georgethedev_">
   <img align="left" alt="georgethedeveloper" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
